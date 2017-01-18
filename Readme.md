@@ -1,6 +1,6 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Андрей Козлов](https://up.htmlacademy.ru/javascript/8/user/40812).
+* Студент: [Неопознанный Енот](https://up.htmlacademy.ru/javascript/8/user/393).
 * Наставник: `Неизвестно`.
 
 ---
